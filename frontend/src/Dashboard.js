@@ -16,22 +16,22 @@ function Dashboard() {
         </ul>
       </div>
       <div className="main-content">
-        <h1>Welcome, Farmer John</h1>
+        <h1>Welcome,</h1>
         <div className="product-grid">
           <div className="product-card">
-            <img src="/maize.jpg" alt="Maize" /> {/* Placeholder image - ensure these are in public folder */}
+            <img src="maize.jpg" alt="Maize" /> {/* Placeholder image - ensure these are in public folder */}
             <h3>Maize</h3>
             <p>30 Kg available</p>
             <p>Price: 200 RWF/kg</p>
           </div>
           <div className="product-card">
-            <img src="/beans.jpg" alt="Beans" /> {/* Placeholder image */}
+            <img src="beans.webp" alt="Beans" /> {/* Placeholder image */}
             <h3>Beans</h3>
             <p>10 Kg available</p>
             <p>Price: 450 RWF/kg</p>
           </div>
           <div className="product-card">
-            <img src="/potatoes.jpg" alt="Potatoes" /> {/* Placeholder image */}
+            <img src="potatoes.webp" alt="Potatoes" /> {/* Placeholder image */}
             <h3>Potatoes</h3>
             <p>25 Kg available</p>
             <p>Price: 250 RWF/kg</p>
